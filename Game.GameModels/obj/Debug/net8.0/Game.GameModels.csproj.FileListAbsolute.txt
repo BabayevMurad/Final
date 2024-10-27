@@ -1,0 +1,11 @@
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\bin\Debug\net8.0\Game.GameModels.deps.json
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\bin\Debug\net8.0\Game.GameModels.dll
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\bin\Debug\net8.0\Game.GameModels.pdb
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\Game.GameModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\Game.GameModels.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\Game.GameModels.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\Game.GameModels.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\Game.GameModels.dll
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\refint\Game.GameModels.dll
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\Game.GameModels.pdb
+C:\Users\murad\OneDrive\Desktop\XOX-Game\Game.GameModels\obj\Debug\net8.0\ref\Game.GameModels.dll
